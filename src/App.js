@@ -10,7 +10,7 @@ function App() {
     {
       logo: sedan,
       color: 'hsl(31, 77%, 52%)',
-      title: 'SEDANS',
+      title: 'SEDAN',
       text: "choose a sedan for it's affordabilty and excellent fuel economy. Ideal for cruising in the city or on your next road tri",
     },
     {
